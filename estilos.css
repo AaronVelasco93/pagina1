@@ -1,0 +1,20 @@
+p{
+    color: brown;
+    background-color: blue;
+}
+
+.rojo{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+}
+.azul{
+    background-color: #6B4C7A;
+    color: blue;
+    font-size: 32px;
+}
+.raro{
+    background-color: azure;
+    color: yellow;
+    text-align: center;
+}
